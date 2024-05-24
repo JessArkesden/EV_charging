@@ -65,6 +65,7 @@ The best performing LADs were all in London, suggesting infrastructure in the ca
 
 <img src="Outputs/Map_of_Top_10.png" alt="" width="450" >
 
+<div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -150,7 +151,7 @@ The best performing LADs were all in London, suggesting infrastructure in the ca
     </tr>
   </tbody>
 </table>
-
+</div>
 
 
 **Bottom 10**
